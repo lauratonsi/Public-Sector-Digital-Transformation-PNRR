@@ -7,7 +7,6 @@ Analisi critica del processo di digitalizzazione della Pubblica Amministrazione 
 - **Normativa Digitale:** Codice dell'Amministrazione Digitale (CAD), Regolamento eIDAS, AI Act.
 - **Policy Analysis:** Analisi della Missione 1 del PNRR (Digitalizzazione, Innovazione, Competitività).
 - **Data Governance:** Studio degli indici di maturità digitale (DESI, DESIER, Indice CA.RE.).
-- **Documentazione:** Redazione tecnica in LaTeX.
 
 ## 🔍 Tematiche Chiave
 - **Il Modello Emilia-Romagna:** Analisi della "Data Valley Bene Comune" e dell'Agenda Digitale Regionale (ADER).
